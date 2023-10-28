@@ -1,0 +1,23 @@
+﻿<Window x:Class="Clock.Settings"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Settings" 
+        Width="400" 
+        SizeToContent="Height" Topmost="True" ResizeMode="NoResize">
+    <StackPanel Margin="20">
+        <Button Content="Font" Click="OnFontChangeClicked" Margin="0,10,0,0" Padding="10" BorderThickness="1"/>
+        <Button Content="Image" Click="OnFrameChangeClicked" Margin="0,10,0,0" Padding="10" BorderThickness="1"/>
+        <CheckBox Content="Invert Clock Colors" Click="ColorSwitchCheckboxClicked" Name="ColorSwitchCheckbox" Margin="0,10,0,0"/>
+        <Separator Margin="0,10,0,0"/>
+        <CheckBox Content="Display Clock Numbers" Click="DisplayClockNumbersCheckboxClicked" Name="DisplayClockNumbersCheckbox" Margin="0,10,0,0"/>
+        <CheckBox Content="Display Ticks" Click="DisplayTicksCheckboxClicked" Name="DisplayTicksCheckbox" Margin="0,10,0,0"/>
+        <Separator Margin="0,10,0,0"/>
+        <CheckBox Content="Display Digital" Click="DisplayDigitalCheckboxClicked" Name="DisplayDigitalCheckbox" Margin="0,10,0,0"/>
+        <Separator Margin="0,10,0,0"/>
+        <StackPanel Orientation="Horizontal">
+            <Label Content="Clock Size" VerticalAlignment="Center"/>
+            <TextBox Name="ClockBox" VerticalAlignment="Center" Width="100"/>
+            <Button Content="Apply" Click="ApplyClockBoxClicked"  VerticalAlignment="Center" Margin="5,0,0,0" BorderThickness="1"/>
+        </StackPanel>
+    </StackPanel>
+</Window>
