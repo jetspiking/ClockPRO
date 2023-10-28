@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/jetspiking/ClockPRO/main/Press/Title.png" Width="350">
+# <img src="https://raw.githubusercontent.com/jetspiking/ClockPRO/main/Press/Icon.png" width="64" height="64"> Clock - PRO
+
 
 # Description
 Clock - PRO is a lightweight clock widget for Windows desktop with customizable frames.
