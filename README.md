@@ -15,4 +15,6 @@ Download and launch the executable "ClockPRO.exe". The program is portable and a
 You can contribute by creating custom frame types (as displayed in [Frames](https://github.com/jetspiking/ClockPRO/Frames)). Create a new issue and upload your images as "Username_YourCustomFrameName".
 
 # Thank you for using Clock - PRO
-If you enjoy this software series, please consider purchasing the paid application [Colorpick - PRO](https://store.steampowered.com/app/1388790/Colorpick__PRO).
+If you enjoy this software series, you could consider supporting me by purchasing application [Colorpick - PRO](https://store.steampowered.com/app/1388790/Colorpick__PRO). For a few dollars (depending on Steam pricing in region) you receive a DRM-free Colorpick application.
+
+<a href="https://www.buymeacoffee.com/DustinHendriks" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
