@@ -14,7 +14,7 @@ Download and launch the executable "ClockPRO.exe". The program is a portable app
 - .NET Framework Installed
 
 # Community Frames
-_Community frames will be displayed here, so far no custom frames were made yet._
+_Community frames will be displayed here. So far, no custom frames were made yet._
 
 # Contribute
 You can contribute by creating custom frame types (as displayed in [Frames](https://github.com/jetspiking/ClockPRO/tree/main/Frames)). Create a new issue and upload your images as "Username_YourCustomFrameName". Images must be designed and drawn by yourself. In your issue, please acknowledge that the image is yours and you "own" it. By sharing images, you grant Clock - PRO the permission to provide a hosted copy of this frame image in this repository and users of Clock - PRO to download this image. You may open an issue at any time to request to remove this image from the repository.
