@@ -18,6 +18,10 @@ You can contribute by creating custom frame types (as displayed in [Frames](http
 
 <img src="https://raw.githubusercontent.com/jetspiking/ClockPRO/main/Screenshots/Screenshot0.png">
 
+# Community Frames
+_Community frames will be displayed here, so far no custom frames were made yet._
+
+
 # Thank you for using Clock - PRO
 If you enjoy this software series, you could consider supporting me by purchasing application [Colorpick - PRO](https://store.steampowered.com/app/1388790/Colorpick__PRO). For a few dollars (depending on Steam pricing in region) you receive a DRM-free Colorpick application.
 
