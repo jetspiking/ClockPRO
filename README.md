@@ -14,7 +14,7 @@ Download and launch the executable "ClockPRO.exe". The program is a portable app
 - .NET Framework Installed
 
 # Contribute
-You can contribute by creating custom frame types (as displayed in [Frames](https://github.com/jetspiking/ClockPRO/Frames)). Create a new issue and upload your images as "Username_YourCustomFrameName".
+You can contribute by creating custom frame types (as displayed in [Frames](https://github.com/jetspiking/ClockPRO/tree/main/Frames)). Create a new issue and upload your images as "Username_YourCustomFrameName".
 
 <img src="https://raw.githubusercontent.com/jetspiking/ClockPRO/main/Screenshots/Screenshot0.png">
 
